@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\",
+  "WorkspaceRootPath": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2\\tutorial6ex2\\views\\myid\\describemyself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2_ict272\\tutorial6ex2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2_ict272\\tutorial6ex2\\views\\myid\\describemyself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\views\\myid\\describemyself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2\\tutorial6ex2\\controllers\\myidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\tutorial6ex2\\controllers\\myidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\controllers\\myidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2\\tutorial6ex2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\tutorial6ex2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2\\tutorial6ex2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\tutorial6ex2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|c:\\users\\matth\\onedrive - koi.edu.au\\ict272_repo\\week_6\\tutorial6ex2\\tutorial6ex2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\tutorial6ex2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C5205506-459F-4B7C-86E7-F782A290CB16}|Tutorial6Ex2\\Tutorial6Ex2.csproj|solutionrelative:tutorial6ex2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -35,67 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tutorial6Ex2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tutorial6Ex2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T03:21:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DescribeMyself.cshtml",
-              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
               "RelativeDocumentMoniker": "Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
-              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
               "RelativeToolTip": "Tutorial6Ex2\\Views\\MyID\\DescribeMyself.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-04T04:42:49.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyIDController.cs",
-              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Controllers\\MyIDController.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Controllers\\MyIDController.cs",
               "RelativeDocumentMoniker": "Tutorial6Ex2\\Controllers\\MyIDController.cs",
-              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Controllers\\MyIDController.cs",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Controllers\\MyIDController.cs",
               "RelativeToolTip": "Tutorial6Ex2\\Controllers\\MyIDController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T04:41:53.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
               "RelativeToolTip": "Tutorial6Ex2\\Views\\Student\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T04:36:31.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Tutorial6Ex2\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Tutorial6Ex2\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T04:29:49.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T04:36:31.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tutorial6Ex2\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Tutorial6Ex2\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T04:29:49.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Tutorial6Ex2\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2\\Tutorial6Ex2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\matth\\OneDrive - koi.edu.au\\ICT272_repo\\Week_6\\Tutorial6Ex2_ICT272\\Tutorial6Ex2\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Tutorial6Ex2\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T04:27:56.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T04:27:56.975Z"
             }
           ]
         }

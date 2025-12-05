@@ -18,6 +18,7 @@ namespace Tutorial6Ex2.Controllers
         {
             ViewData["Name"] = "Aven Matthew Majellano";
             ViewData["StudentID"] = "20032744";
+            ViewData["Institute"] = "KOI";
             return View();
 
         }
